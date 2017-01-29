@@ -1,0 +1,21 @@
+{
+  "name": "firsttestgrunt",
+  "version": "1.0.0",
+  "description": "test for grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "npmdex.js"
+  },
+  "keywords": [
+    "grunt",
+    "taskrunner"
+  ],
+  "author": "redazouhairi",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
